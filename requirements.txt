@@ -1,4 +1,4 @@
-﻿aiodns==2.0.0
+aiodns==2.0.0
 aiosmtpd==1.2.2
 altgraph==0.17
 appdirs==1.4.4
@@ -54,7 +54,7 @@ httplib2==0.20.2
 hyperframe==5.2.0
 hyperlink==21.0.0
 idna==2.10
-importlib
+importlib==1.0.4
 importlib-metadata==4.11.0
 incremental==21.3.0
 inflection==0.5.1
@@ -101,7 +101,7 @@ protobuf==3.14.0
 psutil==5.7.3
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
-PyAudio
+PyAudio @ file:///C:/Users/srija/Python/Python39/Lib/site-packages/PyAudio-0.2.11-cp39-cp39-win_amd64.whl
 PyAutoGUI==0.9.52
 pybind11==2.6.1
 pycares==3.1.1
