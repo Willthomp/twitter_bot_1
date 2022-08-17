@@ -54,7 +54,6 @@ httplib2==0.20.2
 hyperframe==5.2.0
 hyperlink==21.0.0
 idna==2.10
-importlib==1.0.4
 importlib-metadata==4.11.0
 incremental==21.3.0
 inflection==0.5.1
