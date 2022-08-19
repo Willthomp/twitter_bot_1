@@ -1,4 +1,4 @@
 tweepy==4.10.0
-csv==1.0
+csv
 time
 os
